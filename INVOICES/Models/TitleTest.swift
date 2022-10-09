@@ -14,5 +14,6 @@ final class modTitleTransfer:ObservableObject {
     //puiblishes property wrapper om user interface te updaten
     @Published var txtTitle:String = ""
     @Published var txtRemark:String = ""
+    var tezt:String = "sjoeppappe"
     
 }
