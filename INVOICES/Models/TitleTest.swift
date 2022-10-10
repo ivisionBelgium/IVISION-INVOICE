@@ -15,5 +15,6 @@ final class modTitleTransfer:ObservableObject {
     @Published var txtTitle:String = ""
     @Published var txtRemark:String = ""
     var tezt:String = "sjoeppappe"
+    var test2:Int = 17363535272
     
 }
